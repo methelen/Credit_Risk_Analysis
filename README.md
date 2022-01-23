@@ -32,4 +32,4 @@ Below are the results given six different machine learning models.
 
 
 ## Summary
-In dealing with credit card risk, the goal is to approve loans to those who will not default. In machine learning we would want a high precision score, and low F1 score.
+In dealing with credit card risk, the goal is to approve loans to those who will not default. In machine learning we would want a high balanced accuracy score, a high precision score, and recall.
