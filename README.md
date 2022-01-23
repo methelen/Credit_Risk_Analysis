@@ -32,4 +32,4 @@ Below are the results given six different machine learning models.
 
 
 ## Summary
-In dealing with credit card risk, the goal is to approve loans to those who will not default. In machine learning we would want a high balanced accuracy score, a high precision score, and recall.
+In dealing with credit card risk, the goal is to approve loans to those who will not default. The EasyEnsembleClassifier provided the best balanced accuracy score of 93%, with 99% precision score, and a 94% recall. This suggests that there is a low amount of false positives and false negatives, and the true positive rate/F1 Score is high at 97%.
