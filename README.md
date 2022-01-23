@@ -4,13 +4,12 @@
 The purpose of this analysis is to determine if machine learning can be used to predict credit card risk.
 
 ## Results
-Below are the results given six different machine learning models:
+Below are the results given six different machine learning models.
 
-RandomOverSampler:
+1. RandomOverSampler
 ![RandomOverSampler](https://user-images.githubusercontent.com/90434010/150690671-084a38f6-9af6-4f1c-9bcc-e72634fc57b1.PNG)
 
-
-SMOTE:
+2. SMOTE
 ![SMOTE](https://user-images.githubusercontent.com/90434010/150690674-b6214779-da54-47b4-bb55-01c2797f1033.PNG)
 
 
