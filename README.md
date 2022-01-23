@@ -25,3 +25,4 @@ Below are the results given six different machine learning models:
 ![EasyEnsembleClassifier](https://user-images.githubusercontent.com/90434010/150690183-3285b403-198b-4b9c-8ce7-40323674c28e.PNG)
 
 ## Summary
+In dealing with credit card risk, the goal is to approve loans to those who will not default. In machine learning we would want a high precision score, and low F1 score.
